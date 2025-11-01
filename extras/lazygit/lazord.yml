@@ -1,0 +1,28 @@
+# Lazord theme for LazyGit
+# Add this to your lazygit config.yml
+
+gui:
+  theme:
+    lightTheme: false
+    activeBorderColor:
+      - '#2176c7'
+      - bold
+    inactiveBorderColor:
+      - '#475b62'
+    searchingActiveBorderColor:
+      - '#a57706'
+      - bold
+    optionsTextColor:
+      - '#2176c7'
+    selectedLineBgColor:
+      - '#002831'
+    selectedRangeBgColor:
+      - '#002831'
+    cherryPickedCommitBgColor:
+      - '#259286'
+    cherryPickedCommitFgColor:
+      - '#2176c7'
+    unstagedChangesColor:
+      - '#d11c24'
+    defaultFgColor:
+      - '#708284'
